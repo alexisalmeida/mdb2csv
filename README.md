@@ -1,6 +1,6 @@
 # mdb2csv
 
-Essa biblioteca implementa funções que permitem listar e exportar tabelas de um arquivo mdb, tanto da versão jet3 quanto de versões mais novas.
+This library implements functions that allow you to list and export tables from an mdb file, both jet3 and newer versions.
 
 The programs were, for the most part, converted from C to Python using the mdbtools source codes, authored by Brian Bruns and others. (https://github.com/mdbtools/mdbtools)
 
