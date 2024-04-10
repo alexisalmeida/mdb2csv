@@ -8,4 +8,4 @@ They were also transformed into an object model to facilitate their use and main
 
 Initially, only the functions strictly necessary for the primary objective were converted. This primary objective was to export tables to a csv file so that it can be imported into other platforms.
 
-Therefore, the functions relating to recording the mdb or exploring via SQL commands were not converted.
+Therefore, the functions relating to writing to mdb file or exploring via SQL commands were not converted.
